@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jensipedia</title>
-    <link>https://finstar.github.io/</link>
-    <description>Recent content on Jensipedia</description>
+    <title>me on Jensipedia</title>
+    <link>https://finstar.github.io/tags/me/</link>
+    <description>Recent content in me on Jensipedia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Sun, 29 Jan 2023 18:27:25 +0100</lastBuildDate><atom:link href="https://finstar.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 29 Jan 2023 18:27:25 +0100</lastBuildDate><atom:link href="https://finstar.github.io/tags/me/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://finstar.github.io/pages/about/</link>
