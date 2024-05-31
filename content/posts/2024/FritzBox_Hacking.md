@@ -1,6 +1,6 @@
 ---
 title: "Fritz!Box Hacking"
-date: 2024-05-01
+date: 2024-05-31
 description: "Fritz!Box-Branding entfernen"
 image: "/fritzbox_7583_001.png"
 type: "post"
