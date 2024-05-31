@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fritz!Box on Jensipedia</title>
+    <link>https://jensipedia.de/tags/fritzbox/</link>
+    <description>Recent content in Fritz!Box on Jensipedia</description>
+    <generator>Hugo</generator>
+    <language>de-de</language>
+    <lastBuildDate>Thu, 30 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://jensipedia.de/tags/fritzbox/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My secens Post</title>
+      <link>https://jensipedia.de/posts/2024/sencend-post/</link>
+      <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://jensipedia.de/posts/2024/sencend-post/</guid>
+      <description>Test 2024 Test Test Test Enter&#xA;blockquote</description>
+    </item>
+    <item>
+      <title>Fritz!Box Hacking</title>
+      <link>https://jensipedia.de/posts/2024/fritzbox_hacking/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://jensipedia.de/posts/2024/fritzbox_hacking/</guid>
+      <description> FritzBox 7583 </description>
+    </item>
+  </channel>
+</rss>

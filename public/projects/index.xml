@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Jensipedia</title>
+    <link>https://jensipedia.de/projects/</link>
+    <description>Recent content in Projects on Jensipedia</description>
+    <generator>Hugo</generator>
+    <language>de-de</language>
+    <lastBuildDate>Wed, 29 May 2024 21:37:25 +0200</lastBuildDate>
+    <atom:link href="https://jensipedia.de/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mein Mini Rack</title>
+      <link>https://jensipedia.de/projects/Minirack/</link>
+      <pubDate>Wed, 29 May 2024 21:37:25 +0200</pubDate>
+      <guid>https://jensipedia.de/projects/Minirack/</guid>
+      <description>Die Idee: Ein echtes Highlight für alle, die eine IT-Infrastruktur wie in großen Firmen wollen, aber nur in klein!&#xA;10&amp;quot; staht 19&amp;quot;</description>
+    </item>
+    <item>
+      <title>3D Drucktisch</title>
+      <link>https://jensipedia.de/projects/3ddrucktisch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jensipedia.de/projects/3ddrucktisch/</guid>
+      <description>Ein eigener Tisch für den 3D-Drucker </description>
+    </item>
+    <item>
+      <title>Projects 2</title>
+      <link>https://jensipedia.de/projects/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jensipedia.de/projects/projects/</guid>
+      <description>Hello JENS JENSJENS JENSJENSJENS JENSJENSJENSJENS JENSJENSJENS JENSJENS JENS</description>
+    </item>
+  </channel>
+</rss>
